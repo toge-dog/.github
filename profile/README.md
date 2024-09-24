@@ -131,29 +131,29 @@ Github Kanban
 
 ### 🕹주요 기능
 
-| 메인 : 랜딩 페이지 | 메인 : 비로그인 |
+| 랜딩 페이지 | 회원가입 |
 | :---: | :---: |
-| <img src="" width="370" height="200"/> | <img src="" width="370" height="200"/> |
+| <img src="https://github.com/toge-dog/.github/blob/main/assets/landing_page.gif?raw=true" width="370" height="200"/> | <img src="https://github.com/toge-dog/.github/blob/main/assets/signup.gif?raw=true" width="370" height="200"/> |
 
-| 메인 : 회원가입 | 메인 : 이메일 인증 |
+| 로그인 실패 및 성공 | 마이페이지 |
 | :---: | :---: |
-| <img src="" width="370" height="200"/> | <img src="" width="370" height="200"/> |
+| <img src="https://github.com/toge-dog/.github/blob/main/assets/login_fail_success.gif?raw=true" width="370" height="200"/> | <img src="https://github.com/toge-dog/.github/blob/main/assets/mypage.gif?raw=true" width="370" height="200"/> |
 
-|  MBTI-TEST  | MBTI - 결과 확인 |
+|  게시글 작성  | 댓글 작성 |
 | :---: | :---: |
-| <img src="" width="370" height="200"/> | <img src="" width="370" height="200"/> |
+| <img src="https://github.com/toge-dog/.github/blob/main/assets/wirte_board.gif?raw=true" width="370" height="200"/> | <img src="https://github.com/toge-dog/.github/blob/main/assets/comment.gif?raw=true" width="370" height="200"/> |
 
-| 게시판 | 게시글 작성 |
+| 자랑 게시판 | 마커 그리기 |
 | :---: | :---: |
-| <img src="" width="370" height="200"/> | <img src="" width="370" height="200"/> |
+| <img src="https://github.com/toge-dog/.github/blob/main/assets/boost_board.gif?raw=true" width="370" height="200"/> | <img src="https://github.com/toge-dog/.github/blob/main/assets/marker.gif?raw=true" width="370" height="200"/> |
 
-| 댓글 등록 | 댓글 삭제 |
+| 매칭 요청하기 | 매칭 요청 수락하기 |
 | :---: | :---: |
-| <img src="" width="370" height="200"/> | <img src="" width="370" height="200"/> |
+| <img src="https://github.com/toge-dog/.github/blob/main/assets/matching_request.gif?raw=true" width="370" height="200"/> | <img src="https://github.com/toge-dog/.github/blob/main/assets/matching_request_accept.gif?raw=true" width="370" height="200"/> |
 
-| 게시글 좋아요 및 취소소 | 댓글 좋아요 및 취소  |
+| 친구 요청하기 | 친구 요청 수락하기  |
 | :---: | :---: |
-| <img src="" width="370" height="200"/> | <img src="" width="370" height="200"/> |
+| <img src="https://github.com/toge-dog/.github/blob/main/assets/matching_request.gif?raw=true" width="370" height="200"/> | <img src="https://github.com/toge-dog/.github/blob/main/assets/friend_request_accept.gif?raw=true" width="370" height="200"/> |
 
 
 ### 구성원 별 담당 내용
