@@ -160,6 +160,45 @@ Github Kanban
 
 ## 황진혁
 
+> ## 프로젝트 설계 및 문서화
+- 사용자 요구분석서 설계
+  * 기능에 따른 사용자의 요구 사항과 제한 사항 분류
+  * 각 기능에 대한 우선 순위 정렬
+- API 명세서 설계
+  * 기능별 method, URI, Request/Response 상세 설계
+- ERD 설계
+  * 회원, 친구, 반려동물 테이블 설계 및 관계 설정
+
+> ## 백엔드 구현
+### 회원 관리
+- 회원 CRUD 및 Validation 구현
+- JavaMailSender를 이용한 이메일 인증 구현
+- JWT와 Redis를 활용한 인증 시스템 구현
+  * 로그인 시 JWT 토큰 발급 및 Redis 저장
+  * 로그아웃 시 Redis에서 토큰 삭제
+ 
+> ## 친구 관리
+- 친구 요청, 수락, 거절 등 Status에 따른 CRUD 구현
+
+> ## 반려동물 관리
+- 반려동물 정보 CRUD 구현
+
+> ## 프론트엔드 구현
+- 친구 관리 페이지 구현
+- 게시판 페이지 CSS 적용
+
+> ## 사용 기술
+- Backend: Spring Boot, JPA, Redis
+- Frontend: React (추정)
+- Database: MySQL (추정)
+- 기타: JWT, JavaMailSender
+
+> ## 주요 기능
+- 회원 인증 및 관리
+- 친구 관계 관리
+- 반려동물 정보 관리
+- 이메일 인증
+- 토큰 기반 인증 시스템
 
 ---
 <br/>
