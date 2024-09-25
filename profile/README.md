@@ -189,8 +189,8 @@ Github Kanban
 
 > ## 사용 기술
 - Backend: Spring Boot, JPA, Redis
-- Frontend: React (추정)
-- Database: MySQL (추정)
+- Frontend: React 
+- Database: MySQL
 - 기타: JWT, JavaMailSender
 
 > ## 주요 기능
